@@ -25,6 +25,7 @@
         android:layout_height="wrap_content"
         android:textSize="40dp"
         android:text="Date"
+        android:textColor="@color/purple_200"
         android:layout_marginTop="60dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
